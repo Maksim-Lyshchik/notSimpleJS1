@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(50, 93, 233);
+}
+h2{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 32px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+li{
+    color: #f8f8f8;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
